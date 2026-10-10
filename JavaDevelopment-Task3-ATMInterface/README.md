@@ -47,4 +47,4 @@ Run the program:
 `java Main`
 
 ## Author
-Hafsa Tanayeem
+Mohammad Shafiuddin
