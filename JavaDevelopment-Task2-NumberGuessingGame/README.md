@@ -30,4 +30,4 @@ A simple Java console-based Number Guessing Game where the player tries to guess
    `java Main`
 
 ## Author
-Hafsa Tanayeem
+Mohammad Shafiuddin
